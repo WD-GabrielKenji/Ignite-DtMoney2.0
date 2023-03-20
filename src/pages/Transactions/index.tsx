@@ -4,7 +4,7 @@ import { TransactionsContext } from "../../contexts/TransactionsContext";
 import { dateFormatter, priceFormatter } from "../../utils/formatter";
 import { Header } from "../../Components/Header";
 import { Summary } from "../../Components/Summary";
-import { SearchForm } from "./Components";
+import { SearchForm } from "./Components/SearchForm";
 
 import { PriceHighlight, TransactionsContainer, TransactionsTable } from "./styles";
 
